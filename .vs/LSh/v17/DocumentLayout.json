@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|d:\\pairs\\not_actual_pairs\\cursovaya\\need_on_disk\\curs\\curs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\curs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0530F67-D3A4-4E01-923C-7A883793C048}|Curs\\LSh.csproj|solutionrelative:curs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form3.cs",
+              "RelativeDocumentMoniker": "Curs\\Form3.cs",
+              "ToolTip": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form3.cs",
+              "RelativeToolTip": "Curs\\Form3.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-05T16:12:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form3.cs",
+              "RelativeDocumentMoniker": "Curs\\Form3.cs",
+              "ToolTip": "D:\\Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-05T16:12:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form2.cs",
+              "RelativeDocumentMoniker": "Curs\\Form2.cs",
+              "ToolTip": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form2.cs",
+              "RelativeToolTip": "Curs\\Form2.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAqwI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-05T16:12:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form2.cs",
+              "RelativeDocumentMoniker": "Curs\\Form2.cs",
+              "ToolTip": "D:\\Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-05T16:12:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Curs\\Form1.Designer.cs",
+              "ToolTip": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.Designer.cs",
+              "RelativeToolTip": "Curs\\Form1.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-05T16:12:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.cs",
+              "RelativeDocumentMoniker": "Curs\\Form1.cs",
+              "ToolTip": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.cs",
+              "RelativeToolTip": "Curs\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-05T16:12:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\Not_Actual_Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.cs",
+              "RelativeDocumentMoniker": "Curs\\Form1.cs",
+              "ToolTip": "D:\\Pairs\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursovaya\\need_on_disk\\Curs\\Curs\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-05T16:12:14.458Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

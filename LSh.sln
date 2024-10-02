@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSh", "Curs\LSh.csproj", "{A0530F67-D3A4-4E01-923C-7A883793C048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0530F67-D3A4-4E01-923C-7A883793C048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0530F67-D3A4-4E01-923C-7A883793C048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0530F67-D3A4-4E01-923C-7A883793C048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0530F67-D3A4-4E01-923C-7A883793C048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA70A96D-E806-40FE-89D3-AE9B5EC9D3DB}
+	EndGlobalSection
+EndGlobal
