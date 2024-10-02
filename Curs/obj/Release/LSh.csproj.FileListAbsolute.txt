@@ -1,0 +1,14 @@
+D:\Cursovaya\Curs\Curs\bin\Release\Curs.exe.config
+D:\Cursovaya\Curs\Curs\bin\Release\Curs.exe
+D:\Cursovaya\Curs\Curs\bin\Release\Curs.pdb
+D:\Cursovaya\Curs\Curs\obj\Release\LSh.csproj.AssemblyReference.cache
+D:\Cursovaya\Curs\Curs\obj\Release\LSh.csproj.SuggestedBindingRedirects.cache
+D:\Cursovaya\Curs\Curs\obj\Release\LSh.csproj.ResolveComReference.cache
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.Form1.resources
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.Form2.resources
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.Form3.resources
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.Properties.Resources.resources
+D:\Cursovaya\Curs\Curs\obj\Release\LSh.csproj.GenerateResource.cache
+D:\Cursovaya\Curs\Curs\obj\Release\LSh.csproj.CoreCompileInputs.cache
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.exe
+D:\Cursovaya\Curs\Curs\obj\Release\Curs.pdb
